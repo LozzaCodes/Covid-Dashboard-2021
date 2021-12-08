@@ -70,5 +70,6 @@ A feature that could be useful in further implementations is a more attractive G
 Developed by Laurie Harbord
 Open-Source Software
 Made on Windows using Visual Code
+Project hosted on github at: https://github.com/LozzaCodes/Covid-Dashboard-2021
 
 08/12/2021
