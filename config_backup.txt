@@ -1,0 +1,9 @@
+{"location": "Exeter", 
+"location_type": "ltla", 
+"api_key": "81d4ca16248e424691649b455e55ad7e", 
+"language": "en", 
+"country": "gb", 
+"jsonstore": "apidata.json", 
+"national_csv_store": "national_data.csv", 
+"regional_csv_store": "regional_data.csv", 
+"image": "d09f7a3d305f38465aa7bcf75b8f2cfb5d44df6b_hq.jpg"}

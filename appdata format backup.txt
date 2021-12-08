@@ -1,0 +1,1 @@
+{"read_articles":[], "unread_articles": [], "update_list": [{"title": "test 6", "content": "22:38", "repeat": false, "covid_data": true, "news_data": false}]}
